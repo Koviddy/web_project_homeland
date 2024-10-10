@@ -13,7 +13,7 @@
 
 @media screen and (max-width: 1024px) {
   .footer {
-    padding: 88px auto 0;
+    padding: 88px 0 0;
   }
   .footer__copyright {
     margin: 0;
@@ -25,7 +25,7 @@
 @media screen and (max-width: 544px) {
   .footer {
     font-size: 14px;
-    padding: 64px auto 0;
+    padding: 64px 0 0;
   }
   .footer__copyright {
     margin: 0;
