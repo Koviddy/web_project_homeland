@@ -64,17 +64,17 @@
   margin: 0;
 }
 
-.places__artist_name {
+.places__artist-name {
   margin: 0;
 }
-.places__artist_company {
+.places__artist-company {
   margin: 0;
 }
 .places__text-information {
   grid-area: texts;
   font-family: "Inter", sans-serif;
   font-size: 18px;
-  font-weight: 400px;
+  font-weight: 400;
   line-height: 29.34px;
   max-width: 484px;
 }
@@ -149,7 +149,7 @@
   }
   .places__text-information {
     font-size: 16px;
-    font-weight: 400px;
+    font-weight: 400;
     line-height: 26.08px;
     max-width: 352px;
   }
@@ -170,7 +170,7 @@
   }
   .places {
     max-width: 320px;
-    margin-top: 62px 0 0;
+    margin-top: 62px;
   }
   .places__container:nth-child(2) {
     margin-top: 72px;
@@ -198,7 +198,7 @@
   }
   .places__text-information {
     font-size: 16px;
-    font-weight: 400px;
+    font-weight: 400;
     line-height: 26.08px;
     max-width: 288px;
   }
@@ -206,6 +206,5 @@
     font-size: 14px;
     line-height: 16.94px;
     max-width: 288px;
-    padding: auto;
   }
 }
