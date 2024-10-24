@@ -32,6 +32,6 @@
     grid-template-rows: repeat(6, 1fr);
     margin: 38px 16px 0;
     column-gap: 12px;
-    max-width: 288px;
+    max-width: 100%;
   }
 }

@@ -9,3 +9,4 @@ A página galeria TripleTen é o quinto projeto no programa de desenvolvimento w
 - responsivo
 - flexbox
 - media queries
+- grid layout
