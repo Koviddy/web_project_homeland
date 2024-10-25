@@ -169,8 +169,8 @@
     align-items: flex-start;
   }
   .places {
-    max-width: 100%;
-    margin-top: 62px;
+    max-width: 544px;
+    margin: 62px auto 0;
   }
   .places__container:nth-child(2) {
     margin-top: 72px;
@@ -179,13 +179,15 @@
     margin-top: 72px;
   }
   .places__title {
-    max-width: 288px;
+    max-width: 100%;
     font-size: 32px;
     line-height: 35px;
     padding: 0 16px;
   }
   .places__image {
     max-height: 320px;
+    max-width: 100%;
+    margin: 0 auto;
   }
   .places__content {
     max-width: 288px;
@@ -201,13 +203,13 @@
     font-size: 16px;
     font-weight: 400;
     line-height: 26.08px;
-    max-width: 288px;
-    margin: 0 auto;
+    max-width: 100%;
+    margin: 0 16px;
   }
   .places__button {
     font-size: 14px;
     line-height: 16.94px;
-    max-width: 288px;
+    max-width: 100%;
     margin: 0 auto;
   }
 }
